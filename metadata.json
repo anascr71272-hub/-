@@ -1,0 +1,6 @@
+{
+  "name": "Minecraft Server IP Portal & Admin Hub",
+  "description": "بوابة سيرفر ماين كرافت الرسمية لنسخ الآي بي بضغطة زر مع لوحة تحكم ذكية لتحديث بيانات السيرفر بدون تعديل الكود.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
